@@ -1,3 +1,9 @@
+.main-team {
+  background-color: #f4f4fd;
+}
+.main-team li {
+  background: #fff;
+}
 .main-team h2 {
   font-family: "Roboto", sans-serif;
   font-weight: 700;

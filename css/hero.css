@@ -10,14 +10,17 @@
 .main-hero {
   background: #2e2f42;
 }
-.button {
+.main-button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
+  cursor: pointer;
 }
-.main-hero .button {
-  background: #4d5ae5;
+.main-button:hover,
+.main-button:focus {
+  color: #404bbf;
+  background-color: #404bbf;
 }

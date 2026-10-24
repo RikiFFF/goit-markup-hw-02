@@ -6,7 +6,7 @@
   text-transform: uppercase;
   color: #4d5ae5;
 }
-.Studio-logo {
+.studio-logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
@@ -24,11 +24,12 @@
   color: #2e2f42;
 }
 .main-nav li > a:hover,
-.main-nav li > a:active {
-  color: #4d5ae5;
+.main-nav li > a:active,
+.main-nav li > a:focus {
+  color: #404bbf;
 }
 
-.main-kontakt li > a {
+.main-address li > a {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -36,7 +37,11 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
-.main-kontakt li > a:hover,
-.main-kontakt li > a:active {
-  color: #4d5ae5;
+.main-address li > a:hover,
+.main-address li > a:active,
+.main-address li > a:focus {
+  color: #404bbf;
+}
+.main-address {
+  font-style: normal;
 }
