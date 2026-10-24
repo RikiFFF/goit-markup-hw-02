@@ -1,4 +1,4 @@
-.main-features h2 {
+.main-features .main-global {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -6,7 +6,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.main-features h3 {
+.main-features .main-list {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -14,7 +14,7 @@
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.main-features p {
+.main-features .text {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
